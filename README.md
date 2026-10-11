@@ -41,15 +41,15 @@
 
   <!-- Identity & Role Badges (Lavender & Purple Gradient) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/🎓_B.E._Computer_Science-4C1D95?style=for-the-badge&logoColor=D8B4FE" alt="Computer Science" />
+    <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-4C1D95?style=for-the-badge&logoColor=D8B4FE" alt="Computer Science" />
     &nbsp;
-    <img src="https://img.shields.io/badge/🌐_Full--Stack_Developer-6D28D9?style=for-the-badge&logoColor=D8B4FE" alt="Full-Stack Developer" />
+    <img src="https://img.shields.io/badge/Role-Full--Stack_Developer-6D28D9?style=for-the-badge&logo=react&logoColor=D8B4FE" alt="Full-Stack Developer" />
     &nbsp;
-    <img src="https://img.shields.io/badge/⚡_7%2B_Hackathons-7C3AED?style=for-the-badge&logo=devpost&logoColor=D8B4FE" alt="7+ Hackathons" />
+    <img src="https://img.shields.io/badge/Hackathons-7%2B_Built-7C3AED?style=for-the-badge&logo=devpost&logoColor=D8B4FE" alt="7+ Hackathons" />
     &nbsp;
-    <img src="https://img.shields.io/badge/🤖_AI_%26_Vision_Explorer-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="AI & Vision Explorer" />
+    <img src="https://img.shields.io/badge/AI_and_Vision-Explorer-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="AI & Vision Explorer" />
     &nbsp;
-    <img src="https://img.shields.io/badge/🎨_UI%2FUX_Designer-9333EA?style=for-the-badge&logoColor=D8B4FE" alt="UI/UX Designer" />
+    <img src="https://img.shields.io/badge/UI_UX-Designer-9333EA?style=for-the-badge&logo=figma&logoColor=D8B4FE" alt="UI/UX Designer" />
   </p>
 
   <p align="center">
@@ -58,7 +58,7 @@
 
   <p align="center">
     Passionate about turning foundational engineering concepts into interactive, human-centered software.<br/>
-    <b>⚡ Experienced builder across 7+ Hackathons</b> — turning ideas into working prototypes with rapid execution.<br/>
+    <b>⚡ Experienced builder across 7+ Hackathons</b> — turning ambitious ideas into working prototypes with rapid execution.<br/>
     Here is a snapshot of my core pillars, technical craft, and creative pursuits:
   </p>
 
