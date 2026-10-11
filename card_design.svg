@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 280" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient (Plum / Rose Berry) -->
+    <linearGradient id="bgGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#24051B"/>
+      <stop offset="50%" stop-color="#4C0D37"/>
+      <stop offset="100%" stop-color="#831843"/>
+    </linearGradient>
+
+    <!-- Animated Border Glow Gradient -->
+    <linearGradient id="borderGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F43F5E">
+        <animate attributeName="stop-color" values="#F43F5E;#FB7185;#FDA4AF;#F43F5E" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#FB7185">
+        <animate attributeName="stop-color" values="#FB7185;#FDA4AF;#F43F5E;#FB7185" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FDA4AF">
+        <animate attributeName="stop-color" values="#FDA4AF;#F43F5E;#FB7185;#FDA4AF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Pill Gradient -->
+    <linearGradient id="pillGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#831843"/>
+      <stop offset="100%" stop-color="#BE185D"/>
+    </linearGradient>
+
+    <!-- Badge Background Gradient -->
+    <linearGradient id="badgeGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3F0A2E"/>
+      <stop offset="100%" stop-color="#701A4B"/>
+    </linearGradient>
+
+    <!-- Subtle Mesh Glow -->
+    <radialGradient id="meshGlow4" cx="90%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#FB7185" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FB7185" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      .card-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        fill: #FFFFFF;
+        letter-spacing: 0.3px;
+      }
+      .card-subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        fill: #FECDD3;
+      }
+      .card-desc {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 12.5px;
+        font-weight: 400;
+        fill: #FFE4E6;
+        line-height: 1.5;
+      }
+      .pill-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 10px;
+        font-weight: 700;
+        fill: #FFF1F2;
+        letter-spacing: 1px;
+      }
+      .badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        fill: #FFE4E6;
+      }
+    </style>
+  </defs>
+
+  <!-- Card Base with Glowing Animated Border -->
+  <rect x="2" y="2" width="516" height="276" rx="18" ry="18" fill="url(#bgGrad4)" stroke="url(#borderGrad4)" stroke-width="2"/>
+
+  <!-- Radial Glow Accent in corner -->
+  <rect x="2" y="2" width="516" height="276" rx="18" ry="18" fill="url(#meshGlow4)" pointer-events="none"/>
+
+  <!-- Top Category Pill -->
+  <g transform="translate(24, 22)">
+    <rect x="0" y="0" width="180" height="24" rx="12" fill="url(#pillGrad4)"/>
+    <circle cx="12" cy="12" r="4" fill="#FDA4AF">
+      <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="16" class="pill-text">UI/UX &amp; CREATIVITY</text>
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="24" y="80" class="card-title">🎨 UI/UX &amp; Visual Design</text>
+  <text x="24" y="103" class="card-subtitle">User-Centered Experiences • Modern Design Systems</text>
+
+  <!-- Description paragraph -->
+  <text x="24" y="134" class="card-desc">Blending technical logic with artistic precision — designing intuitive prototypes</text>
+  <text x="24" y="152" class="card-desc">in Figma, visual hierarchies, and polished creative marketing assets in Canva.</text>
+
+  <!-- Pill Badges at bottom -->
+  <g transform="translate(24, 182)">
+    <!-- Badge 1 -->
+    <rect x="0" y="0" width="140" height="28" rx="8" fill="url(#badgeGrad4)" stroke="#BE185D" stroke-width="1"/>
+    <text x="14" y="18" class="badge-text">📐 Figma Prototyping</text>
+
+    <!-- Badge 2 -->
+    <rect x="150" y="0" width="150" height="28" rx="8" fill="url(#badgeGrad4)" stroke="#BE185D" stroke-width="1"/>
+    <text x="164" y="18" class="badge-text">✨ Canva &amp; Graphics</text>
+
+    <!-- Badge 3 -->
+    <rect x="310" y="0" width="165" height="28" rx="8" fill="url(#badgeGrad4)" stroke="#BE185D" stroke-width="1"/>
+    <text x="324" y="18" class="badge-text">🎯 Human-Centric UX</text>
+  </g>
+
+  <!-- Footer Pillar Highlight Bar -->
+  <g transform="translate(24, 230)">
+    <line x1="0" y1="0" x2="472" y2="0" stroke="#701A4B" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="0" y="24" class="card-subtitle" font-size="12px">🌸 <tspan fill="#FB7185" font-weight="600">Focus Areas:</tspan> Design Systems • Typography • Seamless Interaction</text>
+  </g>
+</svg>

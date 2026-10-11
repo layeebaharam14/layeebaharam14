@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 280" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#190B2E"/>
+      <stop offset="50%" stop-color="#2D1254"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
+    </linearGradient>
+
+    <!-- Animated Border Glow Gradient -->
+    <linearGradient id="borderGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7">
+        <animate attributeName="stop-color" values="#A855F7;#C084FC;#7C3AED;#A855F7" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#A855F7;#C084FC;#7C3AED" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#C084FC">
+        <animate attributeName="stop-color" values="#C084FC;#7C3AED;#A855F7;#C084FC" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Pill Gradient -->
+    <linearGradient id="pillGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#581C87"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+
+    <!-- Badge Background Gradient -->
+    <linearGradient id="badgeGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B1366"/>
+      <stop offset="100%" stop-color="#581C87"/>
+    </linearGradient>
+
+    <!-- Subtle Mesh Glow -->
+    <radialGradient id="meshGlow1" cx="90%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      .card-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        fill: #FFFFFF;
+        letter-spacing: 0.3px;
+      }
+      .card-subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        fill: #D8B4FE;
+      }
+      .card-desc {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 12.5px;
+        font-weight: 400;
+        fill: #E9D5FF;
+        line-height: 1.5;
+      }
+      .pill-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 10px;
+        font-weight: 700;
+        fill: #F3E8FF;
+        letter-spacing: 1px;
+      }
+      .badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        fill: #E9D5FF;
+      }
+      @keyframes floatShimmer {
+        0%, 100% { transform: translateY(0px); opacity: 0.8; }
+        50% { transform: translateY(-4px); opacity: 1; }
+      }
+      .animated-floating {
+        animation: floatShimmer 3.5s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Card Base with Glowing Animated Border -->
+  <rect x="2" y="2" width="516" height="276" rx="18" ry="18" fill="url(#bgGrad1)" stroke="url(#borderGrad1)" stroke-width="2"/>
+
+  <!-- Radial Glow Accent in corner -->
+  <rect x="2" y="2" width="516" height="276" rx="18" ry="18" fill="url(#meshGlow1)" pointer-events="none"/>
+
+  <!-- Top Category Pill -->
+  <g transform="translate(24, 22)">
+    <rect x="0" y="0" width="180" height="24" rx="12" fill="url(#pillGrad1)"/>
+    <circle cx="12" cy="12" r="4" fill="#C084FC">
+      <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="16" class="pill-text">ACADEMIC &amp; CORE CS</text>
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="24" y="80" class="card-title">🎓 Computer Science Foundations</text>
+  <text x="24" y="103" class="card-subtitle">B.E. Computer Science Student • Algorithmic Mindset</text>
+
+  <!-- Description paragraph -->
+  <text x="24" y="134" class="card-desc">Building rock-solid engineering foundations through active problem-solving,</text>
+  <text x="24" y="152" class="card-desc">mastering core algorithmic efficiency, and object-oriented design patterns.</text>
+
+  <!-- Pill Badges at bottom -->
+  <g transform="translate(24, 182)">
+    <!-- Badge 1 -->
+    <rect x="0" y="0" width="145" height="28" rx="8" fill="url(#badgeGrad1)" stroke="#7C3AED" stroke-width="1"/>
+    <text x="14" y="18" class="badge-text">⚡ Data Structures</text>
+
+    <!-- Badge 2 -->
+    <rect x="155" y="0" width="135" height="28" rx="8" fill="url(#badgeGrad1)" stroke="#7C3AED" stroke-width="1"/>
+    <text x="169" y="18" class="badge-text">🧩 OOP &amp; Design</text>
+
+    <!-- Badge 3 -->
+    <rect x="300" y="0" width="168" height="28" rx="8" fill="url(#badgeGrad1)" stroke="#7C3AED" stroke-width="1"/>
+    <text x="314" y="18" class="badge-text">🚀 Problem Solving</text>
+  </g>
+
+  <!-- Footer Pillar Highlight Bar -->
+  <g transform="translate(24, 230)">
+    <line x1="0" y1="0" x2="472" y2="0" stroke="#4C1D95" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="0" y="24" class="card-subtitle" font-size="12px">💜 <tspan fill="#C084FC" font-weight="600">Focus Areas:</tspan> Algorithmic Complexity • Clean Architecture • Logic</text>
+  </g>
+</svg>

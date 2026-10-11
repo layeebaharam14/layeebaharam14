@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 280" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient (Amethyst / Magenta-Purple) -->
+    <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A0A2A"/>
+      <stop offset="50%" stop-color="#3B1054"/>
+      <stop offset="100%" stop-color="#6B21A8"/>
+    </linearGradient>
+
+    <!-- Animated Border Glow Gradient -->
+    <linearGradient id="borderGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E879F9">
+        <animate attributeName="stop-color" values="#E879F9;#A855F7;#F43F5E;#E879F9" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#A855F7">
+        <animate attributeName="stop-color" values="#A855F7;#F43F5E;#E879F9;#A855F7" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#F43F5E">
+        <animate attributeName="stop-color" values="#F43F5E;#E879F9;#A855F7;#F43F5E" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Pill Gradient -->
+    <linearGradient id="pillGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6B21A8"/>
+      <stop offset="100%" stop-color="#9333EA"/>
+    </linearGradient>
+
+    <!-- Badge Background Gradient -->
+    <linearGradient id="badgeGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B1054"/>
+      <stop offset="100%" stop-color="#581C87"/>
+    </linearGradient>
+
+    <!-- Subtle Mesh Glow -->
+    <radialGradient id="meshGlow3" cx="90%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#E879F9" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#E879F9" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      .card-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        fill: #FFFFFF;
+        letter-spacing: 0.3px;
+      }
+      .card-subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        fill: #F5D0FE;
+      }
+      .card-desc {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 12.5px;
+        font-weight: 400;
+        fill: #FAE8FF;
+        line-height: 1.5;
+      }
+      .pill-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 10px;
+        font-weight: 700;
+        fill: #FDF4FF;
+        letter-spacing: 1px;
+      }
+      .badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        fill: #FAE8FF;
+      }
+    </style>
+  </defs>
+
+  <!-- Card Base with Glowing Animated Border -->
+  <rect x="2" y="2" width="516" height="276" rx="18" ry="18" fill="url(#bgGrad3)" stroke="url(#borderGrad3)" stroke-width="2"/>
+
+  <!-- Radial Glow Accent in corner -->
+  <rect x="2" y="2" width="516" height="276" rx="18" ry="18" fill="url(#meshGlow3)" pointer-events="none"/>
+
+  <!-- Top Category Pill -->
+  <g transform="translate(24, 22)">
+    <rect x="0" y="0" width="185" height="24" rx="12" fill="url(#pillGrad3)"/>
+    <circle cx="12" cy="12" r="4" fill="#F472B6">
+      <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="16" class="pill-text">AI &amp; VISION SYSTEMS</text>
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="24" y="80" class="card-title">🤖 Applied AI &amp; Computer Vision</text>
+  <text x="24" y="103" class="card-subtitle">Real-Time Vision Pipelines • Generative &amp; Heuristic AI</text>
+
+  <!-- Description paragraph -->
+  <text x="24" y="134" class="card-desc">Engineering hands-on AI applications — leveraging OpenCV &amp; MediaPipe for</text>
+  <text x="24" y="152" class="card-desc">face/speech analysis alongside Gemini APIs and rule-based detectors.</text>
+
+  <!-- Pill Badges at bottom -->
+  <g transform="translate(24, 182)">
+    <!-- Badge 1 -->
+    <rect x="0" y="0" width="160" height="28" rx="8" fill="url(#badgeGrad3)" stroke="#9333EA" stroke-width="1"/>
+    <text x="14" y="18" class="badge-text">👁️ OpenCV &amp; MediaPipe</text>
+
+    <!-- Badge 2 -->
+    <rect x="170" y="0" width="145" height="28" rx="8" fill="url(#badgeGrad3)" stroke="#9333EA" stroke-width="1"/>
+    <text x="184" y="18" class="badge-text">✨ Generative Models</text>
+
+    <!-- Badge 3 -->
+    <rect x="325" y="0" width="150" height="28" rx="8" fill="url(#badgeGrad3)" stroke="#9333EA" stroke-width="1"/>
+    <text x="339" y="18" class="badge-text">🛡️ AI Phishing Sim</text>
+  </g>
+
+  <!-- Footer Pillar Highlight Bar -->
+  <g transform="translate(24, 230)">
+    <line x1="0" y1="0" x2="472" y2="0" stroke="#581C87" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="0" y="24" class="card-subtitle" font-size="12px">🪻 <tspan fill="#E879F9" font-weight="600">Focus Areas:</tspan> Computer Vision • Multimodal Feeds • Practical AI</text>
+  </g>
+</svg>
