@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 75" width="100%" height="100%">
   <defs>
-    <!-- Background Gradient -->
+    <!-- Background Gradient (Sleek Obsidian Black) -->
     <linearGradient id="techHeaderBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2E1065"/>
-      <stop offset="50%" stop-color="#6D28D9"/>
-      <stop offset="100%" stop-color="#A855F7"/>
+      <stop offset="0%" stop-color="#050508"/>
+      <stop offset="50%" stop-color="#151221"/>
+      <stop offset="100%" stop-color="#050508"/>
     </linearGradient>
 
-    <!-- Animated Shimmer Border Gradient -->
+    <!-- Animated Shimmer Border Gradient (Lavender / Violet Accent) -->
     <linearGradient id="techHeaderBorder" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#C084FC">
         <animate attributeName="stop-color" values="#C084FC;#F3E8FF;#7C3AED;#C084FC" dur="3s" repeatCount="indefinite"/>
@@ -20,9 +20,9 @@
       </stop>
     </linearGradient>
 
-    <!-- Drop Shadow Filter -->
-    <filter id="techGlow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#A855F7" flood-opacity="0.4"/>
+    <!-- Glowing Drop Shadow Filter -->
+    <filter id="techGlow" x="-15%" y="-20%" width="130%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#A855F7" flood-opacity="0.5"/>
     </filter>
 
     <style>
@@ -38,7 +38,7 @@
     </style>
   </defs>
 
-  <!-- Capsule Header Pill (Centered at 427, width 440 -> x = 207) -->
+  <!-- Capsule Header Pill with Obsidian Black Background (width 440 -> x = 207) -->
   <rect x="207" y="8" width="440" height="58" rx="29" ry="29" fill="url(#techHeaderBg)" stroke="url(#techHeaderBorder)" stroke-width="2.5" filter="url(#techGlow)"/>
 
   <!-- Left Star Accent -->

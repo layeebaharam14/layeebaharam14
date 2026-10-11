@@ -94,7 +94,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/💻_PROGRAMMING_LANGUAGES-4C1D95?style=for-the-badge&logoColor=D8B4FE" alt="Programming Languages" title="Programming Languages • Java, Python, JavaScript, HTML5, CSS3" />
+      <img src="https://img.shields.io/badge/💻_PROGRAMMING_LANGUAGES-000000?style=for-the-badge" alt="Programming Languages" title="Programming Languages • Java, Python, JavaScript, HTML5, CSS3" />
       <br/><br/>
       <p>
         <a href="#tech-stack" title="Java • Object-Oriented Programming &amp; Problem Solving"><img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" title="Java • Object-Oriented Programming &amp; Problem Solving" /></a>
@@ -107,7 +107,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🌐_WEB_DEVELOPMENT_%26_APIs-6D28D9?style=for-the-badge&logoColor=D8B4FE" alt="Web Development" title="Web Development • React, Node.js, Django, REST APIs" />
+      <img src="https://img.shields.io/badge/🌐_WEB_DEVELOPMENT_%26_APIs-000000?style=for-the-badge" alt="Web Development" title="Web Development • React, Node.js, Django, REST APIs" />
       <br/><br/>
       <p>
         <a href="#tech-stack" title="React.js • Component-Driven Dynamic User Interfaces"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React" title="React.js • Component-Driven Dynamic User Interfaces" /></a>
@@ -123,7 +123,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🗄️_DATABASE_SYSTEMS-3730A3?style=for-the-badge&logoColor=C7D2FE" alt="Databases" title="Databases • MySQL, MongoDB, SQLite" />
+      <img src="https://img.shields.io/badge/🗄️_DATABASE_SYSTEMS-000000?style=for-the-badge" alt="Databases" title="Databases • MySQL, MongoDB, SQLite" />
       <br/><br/>
       <p>
         <a href="#tech-stack" title="MySQL • Relational Database Management &amp; Structured Queries"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" title="MySQL • Relational Database Management &amp; Structured Queries" /></a>
@@ -134,7 +134,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🔧_TOOLS_%26_WORKFLOW-581C87?style=for-the-badge&logoColor=D8B4FE" alt="Tools & Workflow" title="Developer Tools • Git, GitHub, VS Code" />
+      <img src="https://img.shields.io/badge/🔧_TOOLS_%26_WORKFLOW-000000?style=for-the-badge" alt="Tools & Workflow" title="Developer Tools • Git, GitHub, VS Code" />
       <br/><br/>
       <p>
         <a href="#tech-stack" title="Git • Distributed Version Control &amp; History Tracking"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" title="Git • Distributed Version Control &amp; History Tracking" /></a>
@@ -147,7 +147,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🤖_AI_%26_COMPUTER_VISION-7C3AED?style=for-the-badge&logoColor=D8B4FE" alt="AI & Computer Vision" title="AI & Computer Vision • OpenCV, MediaPipe, GenAI, Speech, Heuristics" />
+      <img src="https://img.shields.io/badge/🤖_AI_%26_COMPUTER_VISION-000000?style=for-the-badge" alt="AI & Computer Vision" title="AI & Computer Vision • OpenCV, MediaPipe, GenAI, Speech, Heuristics" />
       <br/><br/>
       <p>
         <a href="#tech-stack" title="OpenCV • Real-Time Computer Vision &amp; Image Processing Pipelines"><img src="https://img.shields.io/badge/OpenCV-581C87?style=for-the-badge&logo=opencv&logoColor=D8B4FE" alt="OpenCV" title="OpenCV • Real-Time Computer Vision &amp; Image Processing Pipelines" /></a>
@@ -163,7 +163,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🎨_UI%2FUX_%26_DESIGN_SUITE-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="Design & Prototyping" title="UI/UX & Design Suite • Figma, Photoshop, Illustrator, Canva" />
+      <img src="https://img.shields.io/badge/🎨_UI%2FUX_%26_DESIGN_SUITE-000000?style=for-the-badge" alt="Design & Prototyping" title="UI/UX & Design Suite • Figma, Photoshop, Illustrator, Canva" />
       <br/><br/>
       <p>
         <a href="#tech-stack" title="Figma • UI/UX Wireframing, Component Systems &amp; Prototyping"><img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" title="Figma • UI/UX Wireframing, Component Systems &amp; Prototyping" /></a>
@@ -182,7 +182,9 @@
 
 ---
 
-### 📊 GitHub Activity & Insights
+<div align="center">
+  <img src="./activity_header.svg" width="480" alt="GitHub Activity &amp; Insights" />
+</div>
 
 <div align="center">
   <br/>
@@ -195,9 +197,12 @@
 
 ---
 
-### 🧩 Problem Solving & DSA Practice
+<div align="center">
+  <img src="./dsa_header.svg" width="480" alt="Problem Solving &amp; DSA Practice" />
+</div>
 
 <div align="center">
+  <br/>
   <a href="https://leetcode.com/u/layeebaharam" target="_blank">
     <img src="https://leetcard.jacoblin.cool/layeebaharam?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>

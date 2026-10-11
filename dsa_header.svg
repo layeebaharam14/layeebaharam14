@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 75" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient (Sleek Obsidian Black) -->
+    <linearGradient id="dsaHeaderBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050508"/>
+      <stop offset="50%" stop-color="#151221"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </linearGradient>
+
+    <!-- Animated Shimmer Border Gradient (Lavender / Violet Accent) -->
+    <linearGradient id="dsaHeaderBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C084FC">
+        <animate attributeName="stop-color" values="#C084FC;#F3E8FF;#7C3AED;#C084FC" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#F3E8FF">
+        <animate attributeName="stop-color" values="#F3E8FF;#7C3AED;#C084FC;#F3E8FF" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#C084FC;#F3E8FF;#7C3AED" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Glowing Drop Shadow Filter -->
+    <filter id="dsaGlow" x="-15%" y="-20%" width="130%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#A855F7" flood-opacity="0.5"/>
+    </filter>
+
+    <style>
+      .header-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 24px;
+        font-weight: 800;
+        fill: #FFFFFF;
+        letter-spacing: 2px;
+        text-anchor: middle;
+        dominant-baseline: central;
+      }
+    </style>
+  </defs>
+
+  <!-- Capsule Header Pill with Obsidian Black Background (width 510 -> x = 172) -->
+  <rect x="172" y="8" width="510" height="58" rx="29" ry="29" fill="url(#dsaHeaderBg)" stroke="url(#dsaHeaderBorder)" stroke-width="2.5" filter="url(#dsaGlow)"/>
+
+  <!-- Left Star Accent -->
+  <circle cx="205" cy="37" r="4" fill="#FDE047">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="219" cy="37" r="2.5" fill="#E9D5FF"/>
+
+  <!-- Main Headline Text -->
+  <text x="427" y="37" class="header-text">✦ PROBLEM SOLVING &amp; DSA ✦</text>
+
+  <!-- Right Star Accent -->
+  <circle cx="635" cy="37" r="2.5" fill="#E9D5FF"/>
+  <circle cx="649" cy="37" r="4" fill="#FDE047">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
