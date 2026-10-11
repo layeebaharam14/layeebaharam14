@@ -33,7 +33,7 @@
 <div align="center">
 
   <!-- Enhanced About Me Animated Headline Banner -->
-  <img src="./about_header.svg" width="480" alt="About Me & Journey" />
+  <img src="./about_header.svg" width="480" alt="About Me" />
 
   <br/><br/>
 

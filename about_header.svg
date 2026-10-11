@@ -47,20 +47,20 @@
   </defs>
 
   <!-- Capsule Header Pill -->
-  <rect x="180" y="8" width="494" height="58" rx="29" ry="29" fill="url(#headerBg)" stroke="url(#headerBorder)" stroke-width="2.5" filter="url(#glow)"/>
+  <rect x="247" y="8" width="360" height="58" rx="29" ry="29" fill="url(#headerBg)" stroke="url(#headerBorder)" stroke-width="2.5" filter="url(#glow)"/>
 
   <!-- Left Star Accent -->
-  <circle cx="215" cy="37" r="4" fill="#FDE047">
+  <circle cx="280" cy="37" r="4" fill="#FDE047">
     <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="228" cy="37" r="2.5" fill="#E9D5FF"/>
+  <circle cx="294" cy="37" r="2.5" fill="#E9D5FF"/>
 
   <!-- Main Headline Text -->
-  <text x="427" y="37" class="header-text">✦ ABOUT ME &amp; JOURNEY ✦</text>
+  <text x="427" y="37" class="header-text">✦ ABOUT ME ✦</text>
 
   <!-- Right Star Accent -->
-  <circle cx="626" cy="37" r="2.5" fill="#E9D5FF"/>
-  <circle cx="639" cy="37" r="4" fill="#FDE047">
+  <circle cx="560" cy="37" r="2.5" fill="#E9D5FF"/>
+  <circle cx="574" cy="37" r="4" fill="#FDE047">
     <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
   </circle>
 </svg>
