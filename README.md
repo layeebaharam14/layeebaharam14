@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <!-- Profile Quick Badges & Fixed Profile Views Counter -->
+  <!-- Profile Quick Badges -->
   <p align="center">
     <a href="https://github.com/layeebaharam14?tab=repositories">
       <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -19,8 +19,11 @@
     <a href="https://leetcode.com/u/layeebaharam" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=layeebaharam14&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
+  </p>
+
+  <!-- Reliable Profile Views Counter -->
+  <p align="center">
+    <img src="https://api.visitorbadge.io/api/visitors?path=layeebaharam14&label=PROFILE%20VIEWS&labelColor=%2324292e&countColor=%236366f1&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
