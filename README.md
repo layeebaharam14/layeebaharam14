@@ -5,7 +5,7 @@
 
   <!-- Animated Typing SVG (Lavender Theme) -->
   <a href="https://github.com/layeebaharam14">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Full-Stack+Web+Developer;Exploring+AI+and+Computer+Vision;UI%2FUX+and+Graphic+Designer;DSA+and+Problem+Solver" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Full-Stack+Web+Developer;7%2B+Hackathons+Participant;Exploring+AI+and+Computer+Vision;UI%2FUX+and+Graphic+Designer;DSA+and+Problem+Solver" alt="Typing Animation" />
   </a>
 
   <br/><br/>
@@ -19,6 +19,8 @@
     <a href="https://leetcode.com/u/layeebaharam" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=D8B4FE" alt="LeetCode" />
     </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Hackathons-7%2B_Built-4C1D95?style=for-the-badge&logo=devpost&logoColor=D8B4FE" alt="7+ Hackathons" />
   </p>
 
   <!-- Profile Views Counter (Lavender Accent) -->
@@ -43,9 +45,11 @@
     &nbsp;
     <img src="https://img.shields.io/badge/🌐_Full--Stack_Developer-6D28D9?style=for-the-badge&logoColor=D8B4FE" alt="Full-Stack Developer" />
     &nbsp;
-    <img src="https://img.shields.io/badge/🤖_AI_%26_Vision_Explorer-7C3AED?style=for-the-badge&logoColor=D8B4FE" alt="AI & Vision Explorer" />
+    <img src="https://img.shields.io/badge/⚡_7%2B_Hackathons-7C3AED?style=for-the-badge&logo=devpost&logoColor=D8B4FE" alt="7+ Hackathons" />
     &nbsp;
-    <img src="https://img.shields.io/badge/🎨_UI%2FUX_Designer-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="UI/UX Designer" />
+    <img src="https://img.shields.io/badge/🤖_AI_%26_Vision_Explorer-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="AI & Vision Explorer" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/🎨_UI%2FUX_Designer-9333EA?style=for-the-badge&logoColor=D8B4FE" alt="UI/UX Designer" />
   </p>
 
   <p align="center">
@@ -54,6 +58,7 @@
 
   <p align="center">
     Passionate about turning foundational engineering concepts into interactive, human-centered software.<br/>
+    <b>⚡ Experienced builder across 7+ Hackathons</b> — turning ideas into working prototypes with rapid execution.<br/>
     Here is a snapshot of my core pillars, technical craft, and creative pursuits:
   </p>
 
