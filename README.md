@@ -39,17 +39,9 @@
 
   <br/><br/>
 
-  <!-- Identity & Role Badges (Lavender & Purple Gradient) -->
+  <!-- Identity & Role Badges Strip (Custom Lavender & Purple SVG) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-4C1D95?style=for-the-badge&logoColor=D8B4FE" alt="Computer Science" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Role-Full--Stack_Developer-6D28D9?style=for-the-badge&logo=react&logoColor=D8B4FE" alt="Full-Stack Developer" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Hackathons-7%2B_Built-7C3AED?style=for-the-badge&logo=devpost&logoColor=D8B4FE" alt="7+ Hackathons" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/AI_and_Vision-Explorer-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="AI & Vision Explorer" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/UI_UX-Designer-9333EA?style=for-the-badge&logo=figma&logoColor=D8B4FE" alt="UI/UX Designer" />
+    <img src="./about_badges.svg" width="880" alt="Identity &amp; Role Badges: Degree, Role, 7+ Hackathons, AI &amp; Vision, UI/UX" />
   </p>
 
   <p align="center">

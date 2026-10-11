@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 36" width="100%" height="36">
+  <defs>
+    <!-- Gradients for Right Side of each Badge -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4C1D95"/>
+      <stop offset="100%" stop-color="#3B0764"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#581C87"/>
+    </linearGradient>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9333EA"/>
+      <stop offset="100%" stop-color="#7E22CE"/>
+    </linearGradient>
+
+    <!-- Clip Paths for 6px rounded pills -->
+    <clipPath id="pill1"><rect x="0" y="0" width="202" height="34" rx="6" ry="6"/></clipPath>
+    <clipPath id="pill2"><rect x="0" y="0" width="195" height="34" rx="6" ry="6"/></clipPath>
+    <clipPath id="pill3"><rect x="0" y="0" width="168" height="34" rx="6" ry="6"/></clipPath>
+    <clipPath id="pill4"><rect x="0" y="0" width="178" height="34" rx="6" ry="6"/></clipPath>
+    <clipPath id="pill5"><rect x="0" y="0" width="153" height="34" rx="6" ry="6"/></clipPath>
+
+    <style>
+      .badge-label {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        fill: #D8B4FE;
+        letter-spacing: 0.8px;
+        text-transform: uppercase;
+      }
+      .badge-val {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        fill: #FFFFFF;
+        letter-spacing: 0.3px;
+      }
+      .badge-frame {
+        stroke: #A855F7;
+        stroke-opacity: 0.45;
+        stroke-width: 1;
+      }
+    </style>
+  </defs>
+
+  <!-- ================= BADGE 1: DEGREE ================= -->
+  <g transform="translate(0, 1)">
+    <g clip-path="url(#pill1)">
+      <!-- Left side (Label) -->
+      <rect x="0" y="0" width="68" height="34" fill="#240E48"/>
+      <!-- Right side (Value) -->
+      <rect x="68" y="0" width="134" height="34" fill="url(#grad1)"/>
+      <line x1="68" y1="0" x2="68" y2="34" stroke="#4C1D95" stroke-width="1"/>
+      <!-- Label Text -->
+      <text x="34" y="21" class="badge-label" text-anchor="middle">DEGREE</text>
+      <!-- Value Text -->
+      <text x="135" y="21" class="badge-val" text-anchor="middle">B.E. Computer Science</text>
+    </g>
+    <rect x="0" y="0" width="202" height="34" rx="6" ry="6" fill="none" class="badge-frame"/>
+  </g>
+
+  <!-- ================= BADGE 2: ROLE ================= -->
+  <g transform="translate(210, 1)">
+    <g clip-path="url(#pill2)">
+      <!-- Left side -->
+      <rect x="0" y="0" width="56" height="34" fill="#240E48"/>
+      <!-- Right side -->
+      <rect x="56" y="0" width="139" height="34" fill="url(#grad2)"/>
+      <line x1="56" y1="0" x2="56" y2="34" stroke="#581C87" stroke-width="1"/>
+      <!-- Label Text -->
+      <text x="28" y="21" class="badge-label" text-anchor="middle">ROLE</text>
+      <!-- Value Text -->
+      <text x="125" y="21" class="badge-val" text-anchor="middle">Full-Stack Developer</text>
+    </g>
+    <rect x="0" y="0" width="195" height="34" rx="6" ry="6" fill="none" class="badge-frame"/>
+  </g>
+
+  <!-- ================= BADGE 3: HACKATHONS (7+ Built) ================= -->
+  <g transform="translate(413, 1)">
+    <g clip-path="url(#pill3)">
+      <!-- Left side -->
+      <rect x="0" y="0" width="94" height="34" fill="#240E48"/>
+      <!-- Right side -->
+      <rect x="94" y="0" width="74" height="34" fill="url(#grad3)"/>
+      <line x1="94" y1="0" x2="94" y2="34" stroke="#6D28D9" stroke-width="1"/>
+      <!-- Label Text with Flash Icon -->
+      <text x="47" y="21" class="badge-label" text-anchor="middle">⚡ HACKATHONS</text>
+      <!-- Value Text -->
+      <text x="131" y="21" class="badge-val" text-anchor="middle">7+ Built</text>
+    </g>
+    <rect x="0" y="0" width="168" height="34" rx="6" ry="6" fill="none" class="badge-frame"/>
+  </g>
+
+  <!-- ================= BADGE 4: AI & VISION ================= -->
+  <g transform="translate(589, 1)">
+    <g clip-path="url(#pill4)">
+      <!-- Left side -->
+      <rect x="0" y="0" width="96" height="34" fill="#240E48"/>
+      <!-- Right side -->
+      <rect x="96" y="0" width="82" height="34" fill="url(#grad4)"/>
+      <line x1="96" y1="0" x2="96" y2="34" stroke="#7C3AED" stroke-width="1"/>
+      <!-- Label Text -->
+      <text x="48" y="21" class="badge-label" text-anchor="middle">AI &amp; VISION</text>
+      <!-- Value Text -->
+      <text x="137" y="21" class="badge-val" text-anchor="middle">Explorer</text>
+    </g>
+    <rect x="0" y="0" width="178" height="34" rx="6" ry="6" fill="none" class="badge-frame"/>
+  </g>
+
+  <!-- ================= BADGE 5: UI/UX ================= -->
+  <g transform="translate(775, 1)">
+    <g clip-path="url(#pill5)">
+      <!-- Left side -->
+      <rect x="0" y="0" width="62" height="34" fill="#240E48"/>
+      <!-- Right side -->
+      <rect x="62" y="0" width="91" height="34" fill="url(#grad5)"/>
+      <line x1="62" y1="0" x2="62" y2="34" stroke="#8B5CF6" stroke-width="1"/>
+      <!-- Label Text -->
+      <text x="31" y="21" class="badge-label" text-anchor="middle">UI / UX</text>
+      <!-- Value Text -->
+      <text x="107" y="21" class="badge-val" text-anchor="middle">Designer</text>
+    </g>
+    <rect x="0" y="0" width="153" height="34" rx="6" ry="6" fill="none" class="badge-frame"/>
+  </g>
+</svg>
