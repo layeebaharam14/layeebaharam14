@@ -97,52 +97,28 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/💻_PROGRAMMING_LANGUAGES-4C1D95?style=for-the-badge&logoColor=D8B4FE" alt="Programming Languages" />
+      <img src="https://img.shields.io/badge/💻_PROGRAMMING_LANGUAGES-4C1D95?style=for-the-badge&logoColor=D8B4FE" alt="Programming Languages" title="Programming Languages • Java, Python, JavaScript, HTML5, CSS3" />
       <br/><br/>
       <p>
-        <a title="Java — Object-Oriented Programming & Problem Solving"><img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" /></a>
-        <a title="Python — AI, Machine Learning & Web Applications"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" /></a>
-        <a title="JavaScript — Dynamic Frontend Logic & Web Apps"><img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" /></a>
-        <a title="HTML5 — Semantic Web Markup & Structure"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5" /></a>
-        <a title="CSS3 — Responsive Styling, Flexbox & CSS Animations"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3" /></a>
+        <a href="#tech-stack" title="Java • Object-Oriented Programming &amp; Problem Solving"><img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" title="Java • Object-Oriented Programming &amp; Problem Solving" /></a>
+        <a href="#tech-stack" title="Python • AI, Machine Learning &amp; Backend Development"><img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" title="Python • AI, Machine Learning &amp; Backend Development" /></a>
+        <a href="#tech-stack" title="JavaScript • Dynamic Frontend Logic &amp; Web Applications"><img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" title="JavaScript • Dynamic Frontend Logic &amp; Web Applications" /></a>
+        <a href="#tech-stack" title="HTML5 • Semantic Web Markup &amp; Content Structure"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5" title="HTML5 • Semantic Web Markup &amp; Content Structure" /></a>
+        <a href="#tech-stack" title="CSS3 • Modern Responsive Layouts, Flexbox &amp; Animations"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3" title="CSS3 • Modern Responsive Layouts, Flexbox &amp; Animations" /></a>
       </p>
       <br/>
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🌐_WEB_DEVELOPMENT_%26_APIs-6D28D9?style=for-the-badge&logoColor=D8B4FE" alt="Web Development" />
+      <img src="https://img.shields.io/badge/🌐_WEB_DEVELOPMENT_%26_APIs-6D28D9?style=for-the-badge&logoColor=D8B4FE" alt="Web Development" title="Web Development • React, Node.js, Django, REST APIs" />
       <br/><br/>
       <p>
-        <a title="React.js — Component-Driven User Interfaces"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React" /></a>
-        <a title="Node.js — Backend Server Runtime & APIs"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" /></a>
-        <a title="Django — Full-Stack Python Web Framework"><img src="https://skillicons.dev/icons?i=django" height="42" alt="Django" /></a>
+        <a href="#tech-stack" title="React.js • Component-Driven Dynamic User Interfaces"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React" title="React.js • Component-Driven Dynamic User Interfaces" /></a>
+        <a href="#tech-stack" title="Node.js • Scalable Server-Side Runtime &amp; Backend Services"><img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" title="Node.js • Scalable Server-Side Runtime &amp; Backend Services" /></a>
+        <a href="#tech-stack" title="Django • Robust Python Full-Stack Web Framework"><img src="https://skillicons.dev/icons?i=django" height="42" alt="Django" title="Django • Robust Python Full-Stack Web Framework" /></a>
       </p>
       <p>
-        <a title="REST APIs — Standardized Client-Server Architecture"><img src="https://img.shields.io/badge/REST_APIs-4C1D95?style=for-the-badge&logo=postman&logoColor=D8B4FE" alt="REST APIs" /></a>
-      </p>
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/🗄️_DATABASE_SYSTEMS-3730A3?style=for-the-badge&logoColor=C7D2FE" alt="Databases" />
-      <br/><br/>
-      <p>
-        <a title="MySQL — Relational Database Management System"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" /></a>
-        <a title="MongoDB — NoSQL Document-Oriented Database"><img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" /></a>
-        <a title="SQLite — Lightweight Embedded Relational Database"><img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="SQLite" /></a>
-      </p>
-      <br/>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/🔧_TOOLS_%26_WORKFLOW-581C87?style=for-the-badge&logoColor=D8B4FE" alt="Tools & Workflow" />
-      <br/><br/>
-      <p>
-        <a title="Git — Distributed Version Control System"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" /></a>
-        <a title="GitHub — Remote Code Hosting & Project Collaboration"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /></a>
-        <a title="VS Code — Primary Code Editor & Development Environment"><img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" /></a>
+        <a href="#tech-stack" title="REST APIs • Standardized Client-Server Architecture &amp; Endpoints"><img src="https://img.shields.io/badge/REST_APIs-4C1D95?style=for-the-badge&logo=postman&logoColor=D8B4FE" alt="REST APIs" title="REST APIs • Standardized Client-Server Architecture &amp; Endpoints" /></a>
       </p>
       <br/>
     </td>
@@ -150,33 +126,57 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🤖_AI_%26_COMPUTER_VISION-7C3AED?style=for-the-badge&logoColor=D8B4FE" alt="AI & Computer Vision" />
+      <img src="https://img.shields.io/badge/🗄️_DATABASE_SYSTEMS-3730A3?style=for-the-badge&logoColor=C7D2FE" alt="Databases" title="Databases • MySQL, MongoDB, SQLite" />
       <br/><br/>
       <p>
-        <a title="OpenCV — Real-Time Computer Vision & Image Processing"><img src="https://img.shields.io/badge/OpenCV-581C87?style=for-the-badge&logo=opencv&logoColor=D8B4FE" alt="OpenCV" /></a>
-        <a title="MediaPipe — Real-Time Landmarks Tracking"><img src="https://img.shields.io/badge/MediaPipe-6B21A8?style=for-the-badge&logo=MediaPipe&logoColor=D8B4FE" alt="MediaPipe" /></a>
-        <a title="Generative AI — LLMs & Multimodal AI"><img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=D8B4FE" alt="Generative AI" /></a>
-      </p>
-      <p>
-        <a title="Speech Recognition — Audio Signal Analysis"><img src="https://img.shields.io/badge/Speech_Recognition-8B5CF6?style=for-the-badge&logo=audacity&logoColor=D8B4FE" alt="Speech Recognition" /></a>
-        <a title="Rule-Based AI — Expert Heuristics"><img src="https://img.shields.io/badge/Rule--Based_AI-9333EA?style=for-the-badge&logo=probot&logoColor=D8B4FE" alt="Rule-based AI" /></a>
-        <a title="Prompt Engineering — Structured Prompts & RAG"><img src="https://img.shields.io/badge/Prompt_Engineering-A855F7?style=for-the-badge&logo=huggingface&logoColor=D8B4FE" alt="Prompt Engineering" /></a>
+        <a href="#tech-stack" title="MySQL • Relational Database Management &amp; Structured Queries"><img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" title="MySQL • Relational Database Management &amp; Structured Queries" /></a>
+        <a href="#tech-stack" title="MongoDB • NoSQL Document-Oriented Database &amp; Flexible Schemas"><img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" title="MongoDB • NoSQL Document-Oriented Database &amp; Flexible Schemas" /></a>
+        <a href="#tech-stack" title="SQLite • Lightweight Embedded Database for Local Storage"><img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="SQLite" title="SQLite • Lightweight Embedded Database for Local Storage" /></a>
       </p>
       <br/>
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🎨_UI%2FUX_%26_DESIGN_SUITE-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="Design & Prototyping" />
+      <img src="https://img.shields.io/badge/🔧_TOOLS_%26_WORKFLOW-581C87?style=for-the-badge&logoColor=D8B4FE" alt="Tools & Workflow" title="Developer Tools • Git, GitHub, VS Code" />
       <br/><br/>
       <p>
-        <a title="Figma — UI/UX Wireframing & Design Systems"><img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" /></a>
-        <a title="Adobe Photoshop — Graphic Design & Raster Editing"><img src="https://skillicons.dev/icons?i=ps" height="42" alt="Photoshop" /></a>
-        <a title="Adobe Illustrator — Vector Illustration & Digital Art"><img src="https://skillicons.dev/icons?i=ai" height="42" alt="Illustrator" /></a>
+        <a href="#tech-stack" title="Git • Distributed Version Control &amp; History Tracking"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" title="Git • Distributed Version Control &amp; History Tracking" /></a>
+        <a href="#tech-stack" title="GitHub • Cloud Repository Hosting, Collaboration &amp; CI/CD"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" title="GitHub • Cloud Repository Hosting, Collaboration &amp; CI/CD" /></a>
+        <a href="#tech-stack" title="VS Code • Primary Code Editor &amp; Development Environment"><img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" title="VS Code • Primary Code Editor &amp; Development Environment" /></a>
+      </p>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/🤖_AI_%26_COMPUTER_VISION-7C3AED?style=for-the-badge&logoColor=D8B4FE" alt="AI & Computer Vision" title="AI & Computer Vision • OpenCV, MediaPipe, GenAI, Speech, Heuristics" />
+      <br/><br/>
+      <p>
+        <a href="#tech-stack" title="OpenCV • Real-Time Computer Vision &amp; Image Processing Pipelines"><img src="https://img.shields.io/badge/OpenCV-581C87?style=for-the-badge&logo=opencv&logoColor=D8B4FE" alt="OpenCV" title="OpenCV • Real-Time Computer Vision &amp; Image Processing Pipelines" /></a>
+        <a href="#tech-stack" title="MediaPipe • High-Performance Face, Hand &amp; Pose Landmarks Tracking"><img src="https://img.shields.io/badge/MediaPipe-6B21A8?style=for-the-badge&logo=MediaPipe&logoColor=D8B4FE" alt="MediaPipe" title="MediaPipe • High-Performance Face, Hand &amp; Pose Landmarks Tracking" /></a>
+        <a href="#tech-stack" title="Generative AI • LLMs, Multimodal AI &amp; Intelligent Prompt Flows"><img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=D8B4FE" alt="Generative AI" title="Generative AI • LLMs, Multimodal AI &amp; Intelligent Prompt Flows" /></a>
+      </p>
+      <p>
+        <a href="#tech-stack" title="Speech Recognition • Audio Processing &amp; Speech-to-Text Conversion"><img src="https://img.shields.io/badge/Speech_Recognition-8B5CF6?style=for-the-badge&logo=audacity&logoColor=D8B4FE" alt="Speech Recognition" title="Speech Recognition • Audio Processing &amp; Speech-to-Text Conversion" /></a>
+        <a href="#tech-stack" title="Rule-Based AI • Expert Heuristics &amp; Deterministic Knowledge Systems"><img src="https://img.shields.io/badge/Rule--Based_AI-9333EA?style=for-the-badge&logo=probot&logoColor=D8B4FE" alt="Rule-based AI" title="Rule-Based AI • Expert Heuristics &amp; Deterministic Knowledge Systems" /></a>
+        <a href="#tech-stack" title="Prompt Engineering • Structured Prompts, Few-Shot &amp; Context Design"><img src="https://img.shields.io/badge/Prompt_Engineering-A855F7?style=for-the-badge&logo=huggingface&logoColor=D8B4FE" alt="Prompt Engineering" title="Prompt Engineering • Structured Prompts, Few-Shot &amp; Context Design" /></a>
+      </p>
+      <br/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/🎨_UI%2FUX_%26_DESIGN_SUITE-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="Design & Prototyping" title="UI/UX & Design Suite • Figma, Photoshop, Illustrator, Canva" />
+      <br/><br/>
+      <p>
+        <a href="#tech-stack" title="Figma • UI/UX Wireframing, Component Systems &amp; Prototyping"><img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" title="Figma • UI/UX Wireframing, Component Systems &amp; Prototyping" /></a>
+        <a href="#tech-stack" title="Adobe Photoshop • Raster Image Editing &amp; Digital Graphics"><img src="https://skillicons.dev/icons?i=ps" height="42" alt="Photoshop" title="Adobe Photoshop • Raster Image Editing &amp; Digital Graphics" /></a>
+        <a href="#tech-stack" title="Adobe Illustrator • Precision Vector Art, Icons &amp; Brand Assets"><img src="https://skillicons.dev/icons?i=ai" height="42" alt="Illustrator" title="Adobe Illustrator • Precision Vector Art, Icons &amp; Brand Assets" /></a>
         &nbsp;
-        <a title="Canva — Creative Visual Design & Branding Assets"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" style="vertical-align: middle;" /></a>
+        <a href="#tech-stack" title="Canva • Rapid Visual Design, Marketing Collateral &amp; Brand Assets"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" title="Canva • Rapid Visual Design, Marketing Collateral &amp; Brand Assets" style="vertical-align: middle;" /></a>
       </p>
       <p>
-        <a title="UI/UX Design — Modern, Intuitive & User-Centric Interface Design"><img src="https://img.shields.io/badge/UI%2FUX_Design-6B21A8?style=for-the-badge&logo=figma&logoColor=D8B4FE" alt="UI/UX Design" /></a>
+        <a href="#tech-stack" title="UI/UX Design • User Flows, Visual Hierarchy &amp; Intuitive Interfaces"><img src="https://img.shields.io/badge/UI%2FUX_Design-6B21A8?style=for-the-badge&logo=figma&logoColor=D8B4FE" alt="UI/UX Design" title="UI/UX Design • User Flows, Visual Hierarchy &amp; Intuitive Interfaces" /></a>
       </p>
       <br/>
     </td>
