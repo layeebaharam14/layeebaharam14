@@ -79,12 +79,10 @@ I'm a Computer Science student pursuing my **B.E. in Computer Science**, passion
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Figma, Photoshop, Illustrator" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" title="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" title="Canva" style="vertical-align: middle;" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
-  <img src="https://img.shields.io/badge/Adobe_Creative_Tools-FF0000?style=for-the-badge&logoColor=white" alt="Adobe Creative Tools" />
 </p>
 
 #### 🔧 Tools & Workflow
