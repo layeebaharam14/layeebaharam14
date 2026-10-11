@@ -1,16 +1,16 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,26&height=220&section=header&text=Hi%2C%20I'm%20Layeeba%20Haram%20✨&fontSize=40&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descFontSize=18&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,26&height=220&section=header&text=Hi%2C%20I'm%20Layeeba%20Haram&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descFontSize=18&descAlign=50" width="100%" />
 
-  <!-- Animated Typing SVG -->
+  <!-- Animated Typing SVG (Fixed: Clean ASCII encoding so it renders smoothly) -->
   <a href="https://github.com/layeebaharam14">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=620&lines=Passionate+Computer+Science+Student+🎓;Building+Practical+Web+Applications+💻;Exploring+AI-Powered+Solutions+🤖;UI%2FUX+%26+Graphic+Design+Enthusiast+🎨;Practicing+DSA+%26+Problem+Solving+🧠" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=818CF8&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Full-Stack+Web+Developer;Exploring+AI+and+Computer+Vision;UI%2FUX+and+Graphic+Designer;DSA+and+Problem+Solver" alt="Typing Animation" />
   </a>
 
   <br/><br/>
 
-  <!-- Profile Quick Badges -->
+  <!-- Profile Quick Badges & Fixed Profile Views Counter -->
   <p align="center">
     <a href="https://github.com/layeebaharam14?tab=repositories">
       <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=layeebaharam14&label=PROFILE+VIEWS&style=for-the-badge&color=6366f1" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=layeebaharam14&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
