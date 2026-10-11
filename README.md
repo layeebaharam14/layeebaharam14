@@ -68,17 +68,23 @@ I'm a Computer Science student pursuing my **B.E. in Computer Science**, passion
 #### 🤖 AI & Computer Vision
 <p>
   <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-0078D4?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/Speech_Recognition-2563EB?style=flat-square&logoColor=white" alt="Speech Recognition" />
-  <img src="https://img.shields.io/badge/Rule--Based_AI-10B981?style=flat-square&logoColor=white" alt="Rule-based AI" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/MediaPipe-0078D4?style=for-the-badge&logo=MediaPipe&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Speech_Recognition-2563EB?style=for-the-badge&logo=audacity&logoColor=white" alt="Speech Recognition" />
+  <img src="https://img.shields.io/badge/Rule--Based_AI-10B981?style=for-the-badge&logo=probot&logoColor=white" alt="Rule-based AI" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Prompt Engineering" />
 </p>
 
 #### 🎨 Design & Prototyping
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,ps,ai" alt="Design Tools" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=flat-square&logoColor=white" alt="UI/UX Design" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Figma, Photoshop, Illustrator" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" title="Canva" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Adobe_Creative_Tools-FF0000?style=for-the-badge&logoColor=white" alt="Adobe Creative Tools" />
 </p>
 
 #### 🔧 Tools & Workflow
