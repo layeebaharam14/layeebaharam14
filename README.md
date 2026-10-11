@@ -32,14 +32,52 @@
 
 ### 💫 About Me
 
-I'm a Computer Science student pursuing my **B.E. in Computer Science**, passionate about building practical web applications, exploring AI-powered systems, and solving programming challenges. I love turning innovative ideas into real, working products with clean user experiences.
+<div align="center">
 
-- 🎓 **Education:** Pursuing B.E. in Computer Science
-- 🌐 **Web Development:** Building full-stack web applications with interactive frontends and reliable backends
-- 🤖 **Artificial Intelligence:** Exploring Generative AI, rule-based systems, and computer vision
-- 🎨 **Creative Design:** Passionate about UI/UX and Graphic Design (creating intuitive, aesthetic interfaces)
-- 🧠 **Problem Solving:** Actively practicing Data Structures & Algorithms
-- 🏆 **Experience:** Building real-world projects, hackathons, coding practice, and internships
+> *"Blending technical logic with creative design to craft digital experiences that matter."*
+
+</div>
+
+```javascript
+const layeeba = {
+  academics: "B.E. in Computer Science & Engineering 🎓",
+  focusAreas: ["Full-Stack Web Development", "AI & Computer Vision", "UI/UX & Design"],
+  currentQuest: "Engineering LifeNexus — an intelligent personal memory engine 🧠",
+  toolkit: ["Java", "Python", "JavaScript", "React", "Django", "Node.js", "Figma"],
+  philosophy: "Turning raw ideas into impactful, user-centered digital products ✨"
+};
+```
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Academic & Problem Solving</h4>
+      <p>Pursuing my <b>B.E. in Computer Science</b>, with continuous hands-on practice in <b>Data Structures & Algorithms</b> and core computer science fundamentals.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Stack Craft</h4>
+      <p>Passionate about building full-stack web applications from interactive, responsive frontends (React) to dependable, scalable backend architectures (Django & Node.js).</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI & Computer Vision</h4>
+      <p>Exploring the frontiers of <b>Generative AI</b>, computer vision with <b>OpenCV & MediaPipe</b>, and multi-level rule-based heuristic systems.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 UI/UX & Creative Eye</h4>
+      <p>Dedicated to bridging technical depth with intuitive, modern aesthetics — prototyping engaging user journeys in <b>Figma</b> and creative visual assets in <b>Canva</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-LifeNexus-581C87?style=flat-square&logo=github&logoColor=D8B4FE" alt="Building LifeNexus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Exploring-Generative_AI-6B21A8?style=flat-square&logo=googlegemini&logoColor=D8B4FE" alt="Exploring GenAI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Practicing-DSA_%26_Problem_Solving-7C3AED?style=flat-square&logo=leetcode&logoColor=D8B4FE" alt="Practicing DSA" />
+</p>
 
 ---
 
