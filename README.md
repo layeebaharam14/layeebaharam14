@@ -30,48 +30,59 @@
 
 ---
 
-### 💫 About Me
-
 <div align="center">
 
-> *"Blending technical logic with creative design to craft digital experiences that matter."*
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:A855F7&height=38&text=✦%20ABOUT%20ME%20✦&fontSize=18&fontColor=D8B4FE&fontAlignY=65" width="280" />
 
-<p align="center">
-I'm a <b>Computer Science student</b> passionate about turning complex ideas into functional, elegant web applications and AI-driven solutions. With a blend of technical engineering and visual design, I focus on building practical tools with intuitive user experiences.
-</p>
+  <br/><br/>
+
+  <p align="center">
+    <code>💜 B.E. Computer Science</code> &nbsp;•&nbsp;
+    <code>🌐 Full-Stack Builder</code> &nbsp;•&nbsp;
+    <code>🤖 AI Explorer</code> &nbsp;•&nbsp;
+    <code>🎨 Creative Designer</code>
+  </p>
+
+  <p align="center">
+    <i>"Blending technical precision with creative design to engineer digital experiences that matter."</i>
+  </p>
 
 </div>
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 Academic & Problem Solving</h4>
-      <p>Pursuing my <b>B.E. in Computer Science</b>, with continuous hands-on practice in <b>Data Structures & Algorithms</b> and core computer science fundamentals.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Academic_%26_Core_CS-4C1D95?style=for-the-badge&logoColor=D8B4FE" alt="Academic & Core CS" />
+      </p>
+      <p>Pursuing a <b>B.E. in Computer Science</b> with a strong foundation in core engineering, problem-solving, and continuous practice in <b>Data Structures & Algorithms</b>.</p>
+      <p>🪻 <b>Pillars:</b> <i>Algorithmic efficiency • Object-Oriented design • Logic</i></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Full-Stack Craft</h4>
-      <p>Passionate about building full-stack web applications from interactive, responsive frontends (React) to dependable, scalable backend architectures (Django & Node.js).</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Full--Stack_Craft-6B21A8?style=for-the-badge&logoColor=D8B4FE" alt="Full-Stack Craft" />
+      </p>
+      <p>Architecting end-to-end web applications combining dynamic, responsive frontends in <b>React</b> with scalable backends in <b>Django</b> and <b>Node.js</b>.</p>
+      <p>🪻 <b>Pillars:</b> <i>RESTful APIs • Database architecture • Responsive UX</i></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI & Computer Vision</h4>
-      <p>Exploring the frontiers of <b>Generative AI</b>, computer vision with <b>OpenCV & MediaPipe</b>, and multi-level rule-based heuristic systems.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI_%26_Vision_Systems-7C3AED?style=for-the-badge&logoColor=D8B4FE" alt="AI & Vision Systems" />
+      </p>
+      <p>Exploring practical AI solutions — from real-time computer vision with <b>OpenCV & MediaPipe</b> to modern <b>Generative AI</b> and heuristic rule-based simulators.</p>
+      <p>🪻 <b>Pillars:</b> <i>Multimodal AI • Vision processing • Heuristic models</i></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 UI/UX & Creative Eye</h4>
-      <p>Dedicated to bridging technical depth with intuitive, modern aesthetics — prototyping engaging user journeys in <b>Figma</b> and creative visual assets in <b>Canva</b>.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/UI%2FUX_%26_Creativity-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="UI/UX & Creativity" />
+      </p>
+      <p>Bridging pure engineering with visual design — creating user flows and prototypes in <b>Figma</b>, along with polished digital graphic assets in <b>Canva</b>.</p>
+      <p>🪻 <b>Pillars:</b> <i>Visual hierarchy • Modern typography • Intuitive flows</i></p>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Building-LifeNexus-581C87?style=flat-square&logo=github&logoColor=D8B4FE" alt="Building LifeNexus" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Exploring-Generative_AI-6B21A8?style=flat-square&logo=googlegemini&logoColor=D8B4FE" alt="Exploring GenAI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Practicing-DSA_%26_Problem_Solving-7C3AED?style=flat-square&logo=leetcode&logoColor=D8B4FE" alt="Practicing DSA" />
-</p>
 
 ---
 
