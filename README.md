@@ -1,179 +1,177 @@
-# Hi, I'm Layeeba Haram 👋
+<div align="center">
 
-### Computer Science Student | Full-Stack Developer | AI Enthusiast
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,26&height=220&section=header&text=Hi%2C%20I'm%20Layeeba%20Haram%20✨&fontSize=40&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descFontSize=18&descAlign=50" width="100%" />
 
-I'm a Computer Science student passionate about building practical web applications, exploring AI-powered solutions, and solving programming problems.
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/layeebaharam14">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=620&lines=Passionate+Computer+Science+Student+🎓;Building+Practical+Web+Applications+💻;Exploring+AI-Powered+Solutions+🤖;UI%2FUX+%26+Graphic+Design+Enthusiast+🎨;Practicing+DSA+%26+Problem+Solving+🧠" alt="Typing Animation" />
+  </a>
 
-I enjoy turning ideas into working projects and continuously improving my skills through hands-on development, internships, hackathons, coding practice, and design.
+  <br/><br/>
 
----
+  <!-- Profile Quick Badges -->
+  <p align="center">
+    <a href="https://github.com/layeebaharam14?tab=repositories">
+      <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/layeebaharam" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=layeebaharam14&label=PROFILE+VIEWS&style=for-the-badge&color=6366f1" alt="Profile Views" />
+  </p>
 
-## 💻 About Me
-
-- 🎓 Computer Science student pursuing B.E. in Computer Science
-- 🌐 Interested in Full-Stack Web Development
-- 🤖 Exploring Generative AI and AI-powered applications
-- 🎨 Passionate about Graphic Design and UI/UX Design
-- 🧠 Practicing Data Structures & Algorithms
-- 🚀 Building projects focused on practical, real-world applications
-- 🏆 Participating in hackathons and technical events
-- 📚 Always learning and experimenting with new technologies
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
-
-### Frontend
-- React.js
-- HTML5
-- CSS3
-- JavaScript
-
-### Backend
-- Node.js
-- Django
-- REST APIs
-
-### Databases
-- MySQL
-- MongoDB
-- SQLite
-
-### AI & Other Technologies
-- Generative AI
-- Rule based AI Systems
-- OpenCV
-- MediaPipe
-- SpeechRecognition
-- Prompt Engineering
-
-### Design
-- UI/UX Design
-- Graphic Designing
-- Canva
-- Figma
-- Adobe Tools
-
-### Tools
-- Git
-- GitHub
-- VS Code
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 💫 About Me
 
-### 🎤 InterviewSenseAI
+I'm a Computer Science student pursuing my **B.E. in Computer Science**, passionate about building practical web applications, exploring AI-powered systems, and solving programming challenges. I love turning innovative ideas into real, working products with clean user experiences.
 
-An AI-powered interview simulator designed to provide feedback on interview performance using speech, expressions, and behavioral analysis.
-
-**Tech:** Python • OpenCV • MediaPipe • SpeechRecognition
-
----
-
-### 🛡️ AI-Powered Phishing Detection Simulator
-
-A web-based phishing detection simulator built to explore phishing awareness and detection using rule-based AI, with multi-level tasks and a scoring system.
-
-**Tech:** FastAPI • Python • Rule-based AI • Hugging Face
+- 🎓 **Education:** Pursuing B.E. in Computer Science
+- 🌐 **Web Development:** Building full-stack web applications with interactive frontends and reliable backends
+- 🤖 **Artificial Intelligence:** Exploring Generative AI, rule-based systems, and computer vision
+- 🎨 **Creative Design:** Passionate about UI/UX and Graphic Design (creating intuitive, aesthetic interfaces)
+- 🧠 **Problem Solving:** Actively practicing Data Structures & Algorithms
+- 🏆 **Experience:** Building real-world projects, hackathons, coding practice, and internships
 
 ---
 
-### 🧬 SkillTwin
+### 🛠️ Tech Stack
 
-An evidence-based skill development platform designed to help students identify skill gaps and align their learning with industry requirements.
+<div align="center">
 
-**Focus:** EdTech • AI • Skill Analysis • Career Readiness
-**Tech:** React / Next.js • REST APIs • AI/ML • NLP • PostgreSQL
+#### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css" alt="Languages" />
+</p>
 
----
+#### 🌐 Web Development (Frontend & Backend)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,django" alt="Web Dev" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
 
-### 🛒 LUNE — Full-Stack E-Commerce Platform
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" />
+</p>
 
-A full-stack e-commerce platform featuring authentication, product catalog, search and filtering, cart, wishlist, checkout, order management, and stock tracking.
+#### 🤖 AI & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-0078D4?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="GenAI" />
+  <img src="https://img.shields.io/badge/SpeechRecognition-2563EB?style=flat-square&logo=soundcharts&logoColor=white" alt="SpeechRecognition" />
+  <img src="https://img.shields.io/badge/Rule--Based_AI-10B981?style=flat-square&logo=cpu&logoColor=white" alt="Rule-based AI" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square&logo=lightbulb&logoColor=white" alt="Prompt Engineering" />
+</p>
 
-**Tech:** Django • SQLite • HTML • CSS • JavaScript • AJAX
+#### 🎨 Design & Prototyping
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=flat-square&logo=adobe&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Adobe_Tools-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe" />
+</p>
 
----
+#### 🔧 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+</p>
 
-### 💬 VYBE — Full-Stack Social Media Platform
-
-A responsive social-media platform featuring authentication, profiles, image-based posts, comments, likes, follows, personalized feeds, notifications, and Explore functionality.
-
-**Tech:** Django • JavaScript • SQLite • AJAX
-
----
-
-### 🧠 LeetCode Solutions
-
-A growing collection of my solutions to LeetCode problems while practicing Data Structures & Algorithms and improving problem-solving skills.
-
-**Language:** Java
-
----
- 
-
-## 📚 Currently Learning
-
-- Full-Stack Web Development
-- Data Structures & Algorithms
-- Advanced JavaScript
-- React.js
-- Node.js
-- Backend Development
-- MongoDB
-- Artificial Intelligence
-- System Design fundamentals
-
----
-
-## 🏆 Hackathons & Activities
-
-- 🚀 Hackathon at Ghousia College of Engineering
-- 🚀 Hackathon at AIEMS, Bidadi
-- 🚀 Bharatiya Antariksh Hackathon 2026 — ISRO
-- 💻 Full-Stack Development Internships
-- 🧠 Continuous LeetCode & DSA Practice
-- 🎨 UI/UX & Graphic Design
-- 🌐 Building and documenting personal projects
+</div>
 
 ---
 
-## 🎯 My Goals
+### 🚀 Featured Projects
 
-- Building production-quality full-stack applications
-- Strengthening Data Structures & Algorithms skills
-- Exploring practical applications of Generative AI
-- Improving UI/UX and design skills
-- Building projects that solve real-world problems
-- Growing as a well-rounded software developer
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎤 InterviewSenseAI</h3>
+      <p align="center">
+        <a href="https://github.com/layeebaharam14" target="_blank">
+          <img src="https://img.shields.io/badge/Project_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+      <p>An AI-powered interview simulator designed to provide actionable feedback on interview performance by analyzing speech, facial expressions, and behavioral responses.</p>
+      <p><b>Tech:</b> <code>Python</code> • <code>OpenCV</code> • <code>MediaPipe</code> • <code>SpeechRecognition</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ AI-Powered Phishing Detection Simulator</h3>
+      <p align="center">
+        <a href="https://github.com/layeebaharam14" target="_blank">
+          <img src="https://img.shields.io/badge/Project_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+      <p>A web-based cybersecurity simulator built to test and improve phishing awareness using rule-based AI heuristics, complete with interactive multi-level challenges and scoring.</p>
+      <p><b>Tech:</b> <code>FastAPI</code> • <code>Python</code> • <code>Rule-based AI</code> • <code>Hugging Face</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 SkillTwin</h3>
+      <p align="center">
+        <a href="https://github.com/layeebaharam14/SkillTwin" target="_blank">
+          <img src="https://img.shields.io/badge/Project_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+      <p>An evidence-based skill development platform created to help students identify competency gaps and align their personalized learning with current industry expectations.</p>
+      <p><b>Focus:</b> <code>EdTech</code> • <code>AI</code> • <code>Skill Analytics</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 LifeNexus</h3>
+      <p align="center">
+        <a href="https://lifenexus-pouw.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/layeebaharam14/LifeNexus" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+      <p>A Personal Memory Engine connecting scattered digital traces into an intelligent, searchable knowledge graph, life timeline, and smart insights.</p>
+      <p><b>Focus:</b> <code>Web App</code> • <code>Knowledge Graph</code> • <code>Personal AI</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 My Coding Journey
+### 📊 GitHub Activity & Insights
 
-I believe consistent practice, understanding the reasoning behind a solution, and learning from mistakes are more valuable than simply counting solved problems.
-
-This profile is a record of my projects, experiments, coding practice, and continuous growth as a developer.
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to connecting with fellow developers, learning from others, collaborating on interesting projects, and exploring new opportunities.
-
-📧 [Email](mailto:layeebaharam14@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/layeeba-haram-4b2093380) • 🧠 [LeetCode](https://leetcode.com/u/layeebaharam) • 🌐 Portfolio
- 
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=layeebaharam14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=94A3B8&icon_color=38BDF8&count_private=true" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layeebaharam14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=94A3B8" height="165" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=layeebaharam14&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=F43F5E&currStreakLabel=38BDF8" height="160" alt="GitHub Streak" />
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 🧩 Problem Solving & DSA Practice
 
-**Keep learning. Keep building. Keep solving. 🚀**
+<div align="center">
+  <a href="https://leetcode.com/u/layeebaharam" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/layeebaharam?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,21,11,6&height=90&section=footer" width="100%" />
+
+<sub>✦ Designed with creativity and purpose ✦</sub>
+
+</div>
