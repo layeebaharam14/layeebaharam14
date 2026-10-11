@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,26&height=220&section=header&text=Hi%2C%20I'm%20Layeeba%20Haram&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descFontSize=18&descAlign=50" width="100%" />
+  <!-- Header Banner (Lavender & Purple Theme) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:D8B4FE&height=220&section=header&text=Hi%2C%20I'm%20Layeeba%20Haram&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descFontSize=18&descAlign=50" width="100%" />
 
   <!-- Animated Typing SVG (Fixed: Clean ASCII encoding so it renders smoothly) -->
   <a href="https://github.com/layeebaharam14">
@@ -186,8 +186,8 @@ I'm a Computer Science student pursuing my **B.E. in Computer Science**, passion
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,21,11,6&height=90&section=footer" width="100%" />
+<!-- Footer Wave (Lavender & Purple Theme) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8B4FE,50:7C3AED,100:4C1D95&height=90&section=footer" width="100%" />
 
 <sub>✦ Designed with creativity and purpose ✦</sub>
 
