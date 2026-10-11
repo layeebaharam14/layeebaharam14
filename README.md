@@ -51,35 +51,43 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#2C1654">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B0764,50:6B21A8,100:8B5CF6&height=42&text=🎓%20Academic%20%26%20Core%20CS&fontSize=16&fontColor=F3E8FF&fontAlignY=65" width="100%" />
+      <br/><br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/Academic_%26_Core_CS-4C1D95?style=for-the-badge&logoColor=D8B4FE" alt="Academic & Core CS" />
+        <img src="https://img.shields.io/badge/Computer_Science_%26_DSA-6B21A8?style=for-the-badge&logoColor=D8B4FE" alt="Academic & Core CS" />
       </p>
       <p>Pursuing a <b>B.E. in Computer Science</b> with a strong foundation in core engineering, problem-solving, and continuous practice in <b>Data Structures & Algorithms</b>.</p>
-      <p>🪻 <b>Pillars:</b> <i>Algorithmic efficiency • Object-Oriented design • Logic</i></p>
+      <p>💜 <b>Pillars:</b> <i>Algorithmic efficiency • Object-Oriented design • Logic</i></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#142654">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:3730A3,100:6366F1&height=42&text=🌐%20Full-Stack%20Craft&fontSize=16&fontColor=EEF2FF&fontAlignY=65" width="100%" />
+      <br/><br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/Full--Stack_Craft-6B21A8?style=for-the-badge&logoColor=D8B4FE" alt="Full-Stack Craft" />
+        <img src="https://img.shields.io/badge/Web_Applications_%26_APIs-3730A3?style=for-the-badge&logoColor=C7D2FE" alt="Full-Stack Craft" />
       </p>
       <p>Architecting end-to-end web applications combining dynamic, responsive frontends in <b>React</b> with scalable backends in <b>Django</b> and <b>Node.js</b>.</p>
-      <p>🪻 <b>Pillars:</b> <i>RESTful APIs • Database architecture • Responsive UX</i></p>
+      <p>💙 <b>Pillars:</b> <i>RESTful APIs • Database architecture • Responsive UX</i></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#421454">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:581C87,50:9333EA,100:C084FC&height=42&text=🤖%20AI%20%26%20Vision%20Systems&fontSize=16&fontColor=FAF5FF&fontAlignY=65" width="100%" />
+      <br/><br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/AI_%26_Vision_Systems-7C3AED?style=for-the-badge&logoColor=D8B4FE" alt="AI & Vision Systems" />
+        <img src="https://img.shields.io/badge/Applied_AI_%26_OpenCV-9333EA?style=for-the-badge&logoColor=F5D0FE" alt="AI & Vision Systems" />
       </p>
       <p>Exploring practical AI solutions — from real-time computer vision with <b>OpenCV & MediaPipe</b> to modern <b>Generative AI</b> and heuristic rule-based simulators.</p>
       <p>🪻 <b>Pillars:</b> <i>Multimodal AI • Vision processing • Heuristic models</i></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#541438">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:701A75,50:A21CAF,100:E879F9&height=42&text=🎨%20UI%2FUX%20%26%20Creativity&fontSize=16&fontColor=FDF4FF&fontAlignY=65" width="100%" />
+      <br/><br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/UI%2FUX_%26_Creativity-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="UI/UX & Creativity" />
+        <img src="https://img.shields.io/badge/Product_Design_%26_Canva-A21CAF?style=for-the-badge&logoColor=FCE7F3" alt="UI/UX & Creativity" />
       </p>
       <p>Bridging pure engineering with visual design — creating user flows and prototypes in <b>Figma</b>, along with polished digital graphic assets in <b>Canva</b>.</p>
-      <p>🪻 <b>Pillars:</b> <i>Visual hierarchy • Modern typography • Intuitive flows</i></p>
+      <p>🌸 <b>Pillars:</b> <i>Visual hierarchy • Modern typography • Intuitive flows</i></p>
     </td>
   </tr>
 </table>
