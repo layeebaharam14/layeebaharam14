@@ -67,7 +67,7 @@ I'm a Computer Science student pursuing my **B.E. in Computer Science**, passion
 
 #### 🤖 AI & Computer Vision
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/MediaPipe-0078D4?style=for-the-badge&logo=MediaPipe&logoColor=white" alt="MediaPipe" />
   <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/Speech_Recognition-2563EB?style=for-the-badge&logo=audacity&logoColor=white" alt="Speech Recognition" />
