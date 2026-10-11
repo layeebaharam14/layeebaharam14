@@ -32,19 +32,29 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7C3AED,100:A855F7&height=38&text=✦%20ABOUT%20ME%20✦&fontSize=18&fontColor=D8B4FE&fontAlignY=65" width="280" />
+  <!-- Enhanced About Me Animated Headline Banner -->
+  <img src="./about_header.svg" width="480" alt="About Me & Journey" />
 
   <br/><br/>
 
+  <!-- Identity & Role Badges (Lavender & Purple Gradient) -->
   <p align="center">
-    <code>💜 B.E. Computer Science</code> &nbsp;•&nbsp;
-    <code>🌐 Full-Stack Builder</code> &nbsp;•&nbsp;
-    <code>🤖 AI Explorer</code> &nbsp;•&nbsp;
-    <code>🎨 Creative Designer</code>
+    <img src="https://img.shields.io/badge/🎓_B.E._Computer_Science-4C1D95?style=for-the-badge&logoColor=D8B4FE" alt="Computer Science" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/🌐_Full--Stack_Developer-6D28D9?style=for-the-badge&logoColor=D8B4FE" alt="Full-Stack Developer" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/🤖_AI_%26_Vision_Explorer-7C3AED?style=for-the-badge&logoColor=D8B4FE" alt="AI & Vision Explorer" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/🎨_UI%2FUX_Designer-8B5CF6?style=for-the-badge&logoColor=D8B4FE" alt="UI/UX Designer" />
   </p>
 
   <p align="center">
     <i>"Blending technical precision with creative design to engineer digital experiences that matter."</i>
+  </p>
+
+  <p align="center">
+    Passionate about turning foundational engineering concepts into interactive, human-centered software.<br/>
+    Here is a snapshot of my core pillars, technical craft, and creative pursuits:
   </p>
 
 </div>

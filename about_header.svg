@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 75" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="headerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E1065"/>
+      <stop offset="50%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <!-- Animated Shimmer Border Gradient -->
+    <linearGradient id="headerBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C084FC">
+        <animate attributeName="stop-color" values="#C084FC;#F3E8FF;#7C3AED;#C084FC" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#F3E8FF">
+        <animate attributeName="stop-color" values="#F3E8FF;#7C3AED;#C084FC;#F3E8FF" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#C084FC;#F3E8FF;#7C3AED" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Drop Shadow Filter -->
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#A855F7" flood-opacity="0.4"/>
+    </filter>
+
+    <style>
+      .header-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 24px;
+        font-weight: 800;
+        fill: #FFFFFF;
+        letter-spacing: 2px;
+        text-anchor: middle;
+        dominant-baseline: central;
+      }
+      .sparkle {
+        font-size: 18px;
+        fill: #FDE047;
+      }
+      @keyframes pulseSparkle {
+        0%, 100% { opacity: 0.7; transform: scale(0.9); }
+        50% { opacity: 1; transform: scale(1.1); }
+      }
+    </style>
+  </defs>
+
+  <!-- Capsule Header Pill -->
+  <rect x="180" y="8" width="494" height="58" rx="29" ry="29" fill="url(#headerBg)" stroke="url(#headerBorder)" stroke-width="2.5" filter="url(#glow)"/>
+
+  <!-- Left Star Accent -->
+  <circle cx="215" cy="37" r="4" fill="#FDE047">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="228" cy="37" r="2.5" fill="#E9D5FF"/>
+
+  <!-- Main Headline Text -->
+  <text x="427" y="37" class="header-text">✦ ABOUT ME &amp; JOURNEY ✦</text>
+
+  <!-- Right Star Accent -->
+  <circle cx="626" cy="37" r="2.5" fill="#E9D5FF"/>
+  <circle cx="639" cy="37" r="4" fill="#FDE047">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
