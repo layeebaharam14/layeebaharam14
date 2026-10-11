@@ -36,17 +36,11 @@
 
 > *"Blending technical logic with creative design to craft digital experiences that matter."*
 
-</div>
+<p align="center">
+I'm a <b>Computer Science student</b> passionate about turning complex ideas into functional, elegant web applications and AI-driven solutions. With a blend of technical engineering and visual design, I focus on building practical tools with intuitive user experiences.
+</p>
 
-```javascript
-const layeeba = {
-  academics: "B.E. in Computer Science & Engineering 🎓",
-  focusAreas: ["Full-Stack Web Development", "AI & Computer Vision", "UI/UX & Design"],
-  currentQuest: "Engineering LifeNexus — an intelligent personal memory engine 🧠",
-  toolkit: ["Java", "Python", "JavaScript", "React", "Django", "Node.js", "Figma"],
-  philosophy: "Turning raw ideas into impactful, user-centered digital products ✨"
-};
-```
+</div>
 
 <table>
   <tr>
