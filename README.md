@@ -49,15 +49,15 @@ I'm a Computer Science student pursuing my **B.E. in Computer Science**, passion
 
 #### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Programming Languages" />
 </p>
 
-#### 🌐 Web Development (Frontend & Backend)
+#### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,django" alt="Web Dev" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,django" alt="Web Development" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
 #### 🗄️ Databases
@@ -70,17 +70,15 @@ I'm a Computer Science student pursuing my **B.E. in Computer Science**, passion
   <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
   <img src="https://img.shields.io/badge/MediaPipe-0078D4?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
   <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/SpeechRecognition-2563EB?style=flat-square&logo=soundcharts&logoColor=white" alt="SpeechRecognition" />
-  <img src="https://img.shields.io/badge/Rule--Based_AI-10B981?style=flat-square&logo=cpu&logoColor=white" alt="Rule-based AI" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square&logo=lightbulb&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Speech_Recognition-2563EB?style=flat-square&logoColor=white" alt="Speech Recognition" />
+  <img src="https://img.shields.io/badge/Rule--Based_AI-10B981?style=flat-square&logoColor=white" alt="Rule-based AI" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square&logoColor=white" alt="Prompt Engineering" />
 </p>
 
 #### 🎨 Design & Prototyping
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=flat-square&logo=adobe&logoColor=white" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Adobe_Tools-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,ps,ai" alt="Design Tools" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=flat-square&logoColor=white" alt="UI/UX Design" />
 </p>
 
 #### 🔧 Tools & Workflow
