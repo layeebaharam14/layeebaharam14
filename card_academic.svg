@@ -2,21 +2,21 @@
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#190B2E"/>
-      <stop offset="50%" stop-color="#2D1254"/>
+      <stop offset="0%" stop-color="#140726"/>
+      <stop offset="50%" stop-color="#2A0F50"/>
       <stop offset="100%" stop-color="#4C1D95"/>
     </linearGradient>
 
     <!-- Animated Border Glow Gradient -->
     <linearGradient id="borderGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#A855F7">
-        <animate attributeName="stop-color" values="#A855F7;#C084FC;#7C3AED;#A855F7" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#A855F7;#C084FC;#E9D5FF;#7C3AED;#A855F7" dur="4s" repeatCount="indefinite"/>
       </stop>
       <stop offset="50%" stop-color="#7C3AED">
-        <animate attributeName="stop-color" values="#7C3AED;#A855F7;#C084FC;#7C3AED" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#7C3AED;#A855F7;#C084FC;#E9D5FF;#7C3AED" dur="4s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#C084FC">
-        <animate attributeName="stop-color" values="#C084FC;#7C3AED;#A855F7;#C084FC" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#C084FC;#E9D5FF;#7C3AED;#A855F7;#C084FC" dur="4s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
@@ -32,11 +32,24 @@
       <stop offset="100%" stop-color="#581C87"/>
     </linearGradient>
 
-    <!-- Subtle Mesh Glow -->
-    <radialGradient id="meshGlow1" cx="90%" cy="10%" r="60%">
-      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    <!-- Dynamic Breathing Ambient Aura -->
+    <radialGradient id="meshGlow1" cx="88%" cy="12%" r="65%">
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.45">
+        <animate attributeName="stop-opacity" values="0.25;0.55;0.25" dur="3.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
     </radialGradient>
+
+    <!-- Light Sweep Shimmer Beam -->
+    <linearGradient id="shimmerBeam1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="cardClip1">
+      <rect x="2" y="2" width="516" height="276" rx="18" ry="18"/>
+    </clipPath>
 
     <style>
       .card-title {
@@ -72,27 +85,52 @@
         font-weight: 600;
         fill: #E9D5FF;
       }
-      @keyframes floatShimmer {
-        0%, 100% { transform: translateY(0px); opacity: 0.8; }
-        50% { transform: translateY(-4px); opacity: 1; }
+      @keyframes floatBadge1 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-3px); }
       }
-      .animated-floating {
-        animation: floatShimmer 3.5s ease-in-out infinite;
+      @keyframes floatBadge2 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-3px); }
+      }
+      @keyframes floatBadge3 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-3px); }
+      }
+      .badge-float-1 { animation: floatBadge1 3.2s ease-in-out infinite; }
+      .badge-float-2 { animation: floatBadge2 3.2s ease-in-out infinite 0.5s; }
+      .badge-float-3 { animation: floatBadge3 3.2s ease-in-out infinite 1s; }
+      
+      @keyframes lightSweep {
+        0% { transform: translateX(-400px) rotate(25deg); }
+        100% { transform: translateX(700px) rotate(25deg); }
+      }
+      .shimmer-bar {
+        animation: lightSweep 4.5s ease-in-out infinite;
       }
     </style>
   </defs>
 
   <!-- Card Base with Glowing Animated Border -->
-  <rect x="2" y="2" width="516" height="276" rx="18" ry="18" fill="url(#bgGrad1)" stroke="url(#borderGrad1)" stroke-width="2"/>
+  <rect x="2" y="2" width="516" height="276" rx="18" ry="18" fill="url(#bgGrad1)" stroke="url(#borderGrad1)" stroke-width="2">
+    <animate attributeName="stroke-width" values="1.8;2.8;1.8" dur="3s" repeatCount="indefinite"/>
+  </rect>
 
-  <!-- Radial Glow Accent in corner -->
+  <!-- Breathing Ambient Aura in top corner -->
   <rect x="2" y="2" width="516" height="276" rx="18" ry="18" fill="url(#meshGlow1)" pointer-events="none"/>
 
-  <!-- Top Category Pill -->
+  <!-- Shimmer Light Sweep Beam -->
+  <g clip-path="url(#cardClip1)" pointer-events="none">
+    <rect class="shimmer-bar" x="-200" y="-120" width="140" height="520" fill="url(#shimmerBeam1)"/>
+  </g>
+
+  <!-- Top Category Pill with Radar Ping Beacon -->
   <g transform="translate(24, 22)">
     <rect x="0" y="0" width="180" height="24" rx="12" fill="url(#pillGrad1)"/>
-    <circle cx="12" cy="12" r="4" fill="#C084FC">
-      <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    <circle cx="12" cy="12" r="4" fill="#C084FC"/>
+    <circle cx="12" cy="12" r="4" fill="none" stroke="#C084FC" stroke-width="1.5">
+      <animate attributeName="r" values="4;10" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="1.8s" repeatCount="indefinite"/>
     </circle>
     <text x="24" y="16" class="pill-text">ACADEMIC &amp; CORE CS</text>
   </g>
@@ -105,19 +143,25 @@
   <text x="24" y="134" class="card-desc">Building rock-solid engineering foundations through active problem-solving,</text>
   <text x="24" y="152" class="card-desc">mastering core algorithmic efficiency, and object-oriented design patterns.</text>
 
-  <!-- Pill Badges at bottom -->
+  <!-- Interactive/Floating Pill Badges at bottom -->
   <g transform="translate(24, 182)">
     <!-- Badge 1 -->
-    <rect x="0" y="0" width="145" height="28" rx="8" fill="url(#badgeGrad1)" stroke="#7C3AED" stroke-width="1"/>
-    <text x="14" y="18" class="badge-text">⚡ Data Structures</text>
+    <g class="badge-float-1">
+      <rect x="0" y="0" width="145" height="28" rx="8" fill="url(#badgeGrad1)" stroke="#7C3AED" stroke-width="1"/>
+      <text x="14" y="18" class="badge-text">⚡ Data Structures</text>
+    </g>
 
     <!-- Badge 2 -->
-    <rect x="155" y="0" width="135" height="28" rx="8" fill="url(#badgeGrad1)" stroke="#7C3AED" stroke-width="1"/>
-    <text x="169" y="18" class="badge-text">🧩 OOP &amp; Design</text>
+    <g class="badge-float-2">
+      <rect x="155" y="0" width="135" height="28" rx="8" fill="url(#badgeGrad1)" stroke="#7C3AED" stroke-width="1"/>
+      <text x="169" y="18" class="badge-text">🧩 OOP &amp; Design</text>
+    </g>
 
     <!-- Badge 3 -->
-    <rect x="300" y="0" width="168" height="28" rx="8" fill="url(#badgeGrad1)" stroke="#7C3AED" stroke-width="1"/>
-    <text x="314" y="18" class="badge-text">🚀 Problem Solving</text>
+    <g class="badge-float-3">
+      <rect x="300" y="0" width="168" height="28" rx="8" fill="url(#badgeGrad1)" stroke="#7C3AED" stroke-width="1"/>
+      <text x="314" y="18" class="badge-text">🚀 Problem Solving</text>
+    </g>
   </g>
 
   <!-- Footer Pillar Highlight Bar -->
