@@ -25,7 +25,7 @@
 
   <!-- Profile Views Counter (Lavender Accent) -->
   <p align="center">
-    <img src="https://api.visitorbadge.io/api/visitors?path=layeebaharam14&label=PROFILE%20VIEWS&labelColor=%232E1065&countColor=%23A855F7&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=layeebaharam14&amp;style=flat-square&amp;color=8B5CF6&amp;labelColor=2E1065&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
