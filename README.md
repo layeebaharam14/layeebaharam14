@@ -23,9 +23,9 @@
     <img src="https://img.shields.io/badge/Hackathons-7%2B_Built-4C1D95?style=for-the-badge&logo=devpost&logoColor=D8B4FE" alt="7+ Hackathons" />
   </p>
 
-  <!-- Profile Views Counter (Lavender Accent) -->
+  <!-- Profile Views Counter (Lavender & Purple Theme) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=layeebaharam14&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS&base=40" alt="Profile Views" />
+    <img src="https://views.igorkowalczyk.dev/api/badge/layeebaharam14?style=flat&color=8B5CF6&label=Profile%20Views&labelColor=2E1065" alt="Profile Views" />
   </p>
 
 </div>
