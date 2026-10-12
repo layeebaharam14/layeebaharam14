@@ -212,7 +212,7 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layeebaharam14&layout=compact&bg_color=0F0A1C&title_color=D8B4FE&text_color=E9D5FF&border_color=581C87" height="165" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=layeebaharam14&background=0F0A1C&border=581C87&stroke=7C3AED&ring=C084FC&fire=D8B4FE&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=D8B4FE&sideLabels=C084FC&dates=A855F7" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=layeebaharam14&timezone=Asia/Kolkata&background=0F0A1C&border=581C87&stroke=7C3AED&ring=C084FC&fire=D8B4FE&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=D8B4FE&sideLabels=C084FC&dates=A855F7" height="160" alt="GitHub Streak" />
 </div>
 
 ---
