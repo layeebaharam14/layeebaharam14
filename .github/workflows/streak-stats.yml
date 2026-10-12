@@ -1,0 +1,35 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    # Runs every 3 hours to keep real-time stats fresh in IST
+    - cron: '0 */3 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/streak-stats.yml'
+  workflow_dispatch: # Allows manual run anytime from GitHub Actions tab
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats Card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=layeebaharam14&timezone=Asia/Kolkata&background=0F0A1C&border=581C87&stroke=7C3AED&ring=C084FC&fire=D8B4FE&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=D8B4FE&sideLabels=C084FC&dates=A855F7
+          path: streak.svg
+          token: ${{ secrets.STREAK_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Updated Streak
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          git diff --staged --quiet || (git commit -m "chore(streak): auto-update streak stats with private contributions [skip ci]" && git push)
