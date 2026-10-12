@@ -25,7 +25,7 @@
 
   <!-- Profile Views Counter (Lavender Accent) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=layeebaharam14&amp;style=flat-square&amp;color=8B5CF6&amp;labelColor=2E1065&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=layeebaharam14&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS&base=40" alt="Profile Views" />
   </p>
 
 </div>
