@@ -188,6 +188,26 @@
 
 <div align="center">
   <br/>
+
+  <!-- Live GitHub Contribution Heatmap Card -->
+  <p align="center">
+    <a href="https://github.com/layeebaharam14" target="_blank">
+      <img src="https://img.shields.io/badge/🌿_LIVE_CONTRIBUTIONS-320%2B_Past_Year-000000?style=for-the-badge&amp;logo=github&amp;logoColor=39D353" alt="320+ Live Contributions" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/layeebaharam14" target="_blank" title="Click to view Layeeba's live GitHub contribution activity">
+      <img src="https://ghchart.rshah.org/40c463/layeebaharam14" width="100%" alt="Layeeba Haram's GitHub Contribution Grid" />
+    </a>
+  </p>
+
+  <p align="center">
+    <sub><i>✦ Real-time 52-week activity heatmap dynamically fetched from GitHub commits, PRs, and repositories ✦</i></sub>
+  </p>
+
+  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=layeebaharam14&show_icons=true&bg_color=0F0A1C&title_color=D8B4FE&text_color=E9D5FF&icon_color=C084FC&border_color=581C87&count_private=true" height="165" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layeebaharam14&layout=compact&bg_color=0F0A1C&title_color=D8B4FE&text_color=E9D5FF&border_color=581C87" height="165" alt="Top Languages" />
